@@ -1,0 +1,39 @@
+li {
+  list-style-type: none;
+  border: 1px #b6c3ca solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 30%;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 15px;
+  color: white;
+}
+
+.initial-background {
+  height: 40px;
+  min-width: 40px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f59e0b;
+  padding: 5px;
+}
+
+.input-item-container {
+  margin-left: 20px;
+}
+.stars-image {
+  width: 30%;
+}
+
+.delete-button-style {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.delete-icon {
+  width: 50%;
+}
